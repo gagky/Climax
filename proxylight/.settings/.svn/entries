@@ -1,0 +1,41 @@
+8
+
+dir
+95
+http://proxoid.googlecode.com/svn/trunk/proxylight/.settings
+http://proxoid.googlecode.com/svn
+
+
+
+2009-05-20T23:00:26.910555Z
+45
+mike.baroukh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+16054664-3da9-11de-b48d-dbaac48c8fd3
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2011-08-13T04:16:33.000000Z
+e99141f7a7c1497f7c37d541c47dcc75
+2009-05-20T23:00:26.910555Z
+45
+mike.baroukh
+has-props
+

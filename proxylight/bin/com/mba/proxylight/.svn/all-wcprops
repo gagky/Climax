@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/87/trunk/proxylight/src/com/mba/proxylight
+END
+Socket.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/54/trunk/proxylight/src/com/mba/proxylight/Socket.java
+END
+RequestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/87/trunk/proxylight/src/com/mba/proxylight/RequestProcessor.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/proxylight/src/com/mba/proxylight/Request.java
+END
+ProxyLight.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/87/trunk/proxylight/src/com/mba/proxylight/ProxyLight.java
+END
+RequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/proxylight/src/com/mba/proxylight/RequestFilter.java
+END
